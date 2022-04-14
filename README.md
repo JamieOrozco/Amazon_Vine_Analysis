@@ -23,4 +23,4 @@ Using your knowledge of PySpark, Pandas, or SQL, determine if there is any bias 
 * There were 571,022 5 Star Non Vine Reviews and 605 5 Star Vine Reviews
 * This analysis highlights that non Vine customers rate more frequently than the paid Vine customer.
 * The percentage analysis tell us theat the paid reviews did not give out more 5 star reviews because it was paid.
-* This lead us to the conclusion that there is no positivity bias in the Vine program. 
+* This leads us to the conclusion that there is no positivity bias in the Vine program. 
